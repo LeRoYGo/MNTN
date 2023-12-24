@@ -1,1 +1,1 @@
-Technology in use: HTML, CSS
+Tech Stack: HTML, CSS
